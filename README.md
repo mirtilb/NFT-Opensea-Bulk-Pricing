@@ -2,15 +2,16 @@
 Solution to set fixed price to NFTs with a CSV including URL + ETH Price 
 
 
-Goal				SET PRICE ON OPENSEA in BULK</br>
+Goal			SET PRICE ON OPENSEA in BULK</br>
 Project			No More TV (NMTV)</br>
 Developer		syed_aj</br>
-						https://www.fiverr.com/syed_aj</br>
+			https://www.fiverr.com/syed_aj</br>
 
 ---------------
 
 <strong>REQUIREMENT</strong></br>
 
+- your custom smart contract (not freely minted using the "OpenSea Shared Storefront")
 - Metamask account
 - chromedriver + selenium already installed
 - CSV including URL + price for each collectible
