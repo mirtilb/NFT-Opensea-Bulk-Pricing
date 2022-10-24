@@ -5,6 +5,7 @@ Solution to set fixed price to NFTs with a CSV including URL + ETH Price
 Goal			SET PRICE ON OPENSEA in BULK</br>
 Project			No More TV (NMTV)</br>
 Developer		syed_aj</br>
+			https://github.com/SyedAzeemJaved
 			https://www.fiverr.com/syed_aj</br>
 
 ---------------
